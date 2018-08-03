@@ -3,6 +3,9 @@ This tool makes virtual drive, which mirrors user folder and splits big files to
 The tool is useful to backup large files.  
 The source code is based on "[Mirror](https://github.com/dokan-dev/dokany/tree/master/samples/dokan_mirror)" sample from [Dokan](https://github.com/dokan-dev/dokany/).  
 
+### Video:
+![How it works](https://user-images.githubusercontent.com/19610545/43636009-899cf986-9719-11e8-824c-6f56c23ce913.gif)
+
 ### Command line examples:
 
 * Mirror C:\Users as RootDirectory in to a drive of letter M:\ and split big files to 100Mb parts
