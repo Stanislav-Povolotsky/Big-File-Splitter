@@ -1,7 +1,12 @@
 # Big-File-Splitter
-This tool makes virtual drive, which mirrors user folder and splits big files to smaller chunks just on-fly.  
+This windows tool makes virtual drive, which mirrors user folder and splits big files to smaller chunks just on-fly.  
 The tool is useful to backup large files.  
 The source code is based on "[Mirror](https://github.com/dokan-dev/dokany/tree/master/samples/dokan_mirror)" sample from [Dokan](https://github.com/dokan-dev/dokany/).  
+
+### Installation:
+* [Download](https://github.com/Stanislav-Povolotsky/Big-File-Splitter/releases) right distributive for your OS
+* Unpack it and setup dependencies\Dokan_x86|x64.msi
+* That's all. Now you can use big-file-splitter.exe
 
 ### Video:
 ![How it works](https://user-images.githubusercontent.com/19610545/43636009-899cf986-9719-11e8-824c-6f56c23ce913.gif)
